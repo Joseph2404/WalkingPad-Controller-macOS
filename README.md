@@ -1,6 +1,8 @@
 # WalkingPad Controller for macOS
 
 A native macOS app for controlling compatible KingSmith WalkingPad treadmills over Bluetooth. No vendor account, cloud service, or phone app is required.
+![WalkingPad Controller](docs/images/main-window.png)
+![Menu-bar controls](docs/images/menu-bar.png)
 
 ## Features
 
